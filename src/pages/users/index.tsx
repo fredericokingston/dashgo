@@ -31,7 +31,7 @@ export default function UserList() {
           </Flex>
 
           
-            <Table colorScheme="whiteAlpha" minW={740} >
+            <Table colorScheme="whiteAlpha" minW={600} >
               <Thead>
                 <Tr>
                   <Th px="6" color="gray.300" width="8">
