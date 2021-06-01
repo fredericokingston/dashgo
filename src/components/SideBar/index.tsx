@@ -7,7 +7,7 @@ export function Sidebar() {
     base: true,
     lg: false,
   });
-
+  
   if (isDrawerSidebar) {
     const { isOpen, onClose } = useSidebarDrawer();
 

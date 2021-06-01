@@ -26,7 +26,6 @@ export default function SignIn() {
     console.log(values);
   };
 
-
   return (
     <Flex
       w="100vw"
@@ -44,7 +43,6 @@ export default function SignIn() {
         flexDir="column"
         onSubmit={handleSubmit(handleSignIn)}
       >
-
         <Stack spacing="4">
           <Input
             name="email"
