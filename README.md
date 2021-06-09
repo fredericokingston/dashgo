@@ -2,6 +2,8 @@
 
 &nbsp;
 
+![Desktop - 2](https://user-images.githubusercontent.com/29828278/121439774-f59fd900-c95c-11eb-9406-bf6123c6b029.png)
+
 ## Informações sobre o projeto
 
 * Projeto desenvolvido durante o bootcamp Ignite da Rocketseat. O dashgo. é um dashboard criado com Chakra UI, uma biblioteca de componentes React com estilização declarativa. Além disso, os componentes possuem acessibilidade nativa, fácil implementação e pronta para produção. Isso adiciona velocidade ao desenvolvimente e ótima experiência de desenvolvimento. 
@@ -18,8 +20,6 @@
 &nbsp;
 
 ![Desktop - 1](https://user-images.githubusercontent.com/29828278/121439762-f0428e80-c95c-11eb-882f-0ad37e869311.png)
-
-![Desktop - 2](https://user-images.githubusercontent.com/29828278/121439774-f59fd900-c95c-11eb-9406-bf6123c6b029.png)
 
 &nbsp;
 
